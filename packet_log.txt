@@ -1,0 +1,1477 @@
+2025-04-02 10:32:00.431373 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:00.464386 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:00.533889 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:00.620639 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:00.635345 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:00.665341 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:00.738152 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:00.740175 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:00.741015 | Ether / ARP who has 10.100.50.180 says 10.100.55.254 / Padding
+2025-04-02 10:32:00.840721 | Ether / ARP who has 10.100.55.254 says 10.100.48.62 / Padding
+2025-04-02 10:32:00.841466 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:00.842474 | Ether / ARP who has 10.100.55.254 says 10.100.48.114 / Padding
+2025-04-02 10:32:00.843486 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:00.883491 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:00.942925 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:00.944947 | Ether / IP / UDP 10.100.48.13:34822 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:00.946948 | Ether / IP / UDP / mDNS Qry b'_microsoft_mcc._tcp.local.'
+2025-04-02 10:32:00.947944 | Ether / IPv6 / UDP / mDNS Qry b'_microsoft_mcc._tcp.local.'
+2025-04-02 10:32:01.042566 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:01.045566 | Ether / ARP who has 10.100.55.254 says 10.100.48.48 / Padding
+2025-04-02 10:32:01.085069 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:01.147448 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.186755 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65355 PA / Raw
+2025-04-02 10:32:01.187757 | Ether / IP / TCP 10.100.49.37:65355 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:01.250035 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.251021 | Ether / IP / UDP 10.100.48.3:34516 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:01.252039 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.253019 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.254030 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.257032 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.258029 | Ether / ARP who has 10.100.55.254 says 10.100.48.78 / Padding
+2025-04-02 10:32:01.259033 | Ether / IP / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:01.261032 | Ether / IPv6 / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:01.261032 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65355 A / Padding
+2025-04-02 10:32:01.265175 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.271947 | Ether / IP / UDP 10.100.48.6:40803 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:01.315242 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.317240 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:01.334988 | Ether / IP / UDP 10.100.48.9:56097 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:01.363979 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:01.402789 | Ether / IP / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:01.404789 | Ether / IPv6 / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:01.463956 | Ether / IP / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:01.465956 | Ether / IPv6 / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:01.466953 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.472227 | Ether / IP / UDP 10.100.48.12:55564 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:01.534133 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:01.581404 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:01.615388 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.645130 | Ether / ARP who has 10.100.50.180 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.713801 | Ether / IP / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:01.715807 | Ether / IPv6 / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:01.725804 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.785267 | Ether / ARP who has 10.100.49.37 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.786500 | Ether / ARP is at 14:13:33:37:b7:17 says 10.100.49.37
+2025-04-02 10:32:01.800731 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:01.846765 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:01.875330 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:01.965721 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:01.967724 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:02.025414 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.028188 | Ether / IP / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:02.029211 | Ether / IPv6 / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:02.030203 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:02.046249 | Ether / IP / UDP 10.100.48.11:50353 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:02.079798 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:02.135794 | Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+2025-04-02 10:32:02.155343 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.165335 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.185132 | Ether / IP / UDP / mDNS Ans [b'idHash=N2Nl\n', b'dev=1', b'sec=2', b'apps=[8194]', b'name=Redmi Note 9', b'flags=Ag==\n', b'version=65544', b'commonData=0', b'appsData=AQIEgw==\n']
+2025-04-02 10:32:02.188129 | Ether / IPv6 / UDP / mDNS Ans [b'idHash=N2Nl\n', b'dev=1', b'sec=2', b'apps=[8194]', b'name=Redmi Note 9', b'flags=Ag==\n', b'version=65544', b'commonData=0', b'appsData=AQIEgw==\n']
+2025-04-02 10:32:02.190126 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.196415 | Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+2025-04-02 10:32:02.196662 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https S
+2025-04-02 10:32:02.221310 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.225317 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.268650 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:02.275652 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.313656 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:02.315288 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.389884 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 SA
+2025-04-02 10:32:02.392109 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https A
+2025-04-02 10:32:02.393111 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https PA / Raw
+2025-04-02 10:32:02.394113 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 A / Padding
+2025-04-02 10:32:02.507562 | Ether / IP / UDP 10.100.48.10:38190 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:02.542490 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.553951 | Ether / IP / UDP 10.100.48.8:60251 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:02.560946 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:02.602905 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 PA / Raw
+2025-04-02 10:32:02.604923 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https PA / Raw
+2025-04-02 10:32:02.609649 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:02.615644 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.645358 | Ether / ARP who has 10.100.50.180 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.749570 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:02.762762 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:02.809713 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:02.859491 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 A / Raw
+2025-04-02 10:32:02.860256 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 A / Raw
+2025-04-02 10:32:02.861281 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 A / Raw
+2025-04-02 10:32:02.862281 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 PA / Raw
+2025-04-02 10:32:02.863275 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https A
+2025-04-02 10:32:02.864277 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https A / Raw
+2025-04-02 10:32:02.865272 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https PA / Raw
+2025-04-02 10:32:02.989165 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:02.991182 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.045716 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:03.060786 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 A / Padding
+2025-04-02 10:32:03.061785 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 PA / Raw
+2025-04-02 10:32:03.093018 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.096007 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:03.098014 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:03.107380 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https A
+2025-04-02 10:32:03.196018 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.198030 | Ether / IP / UDP 10.100.52.190:46028 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:03.199037 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:03.236314 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.237303 | Ether / ARP who has 10.100.51.223 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.238304 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.239306 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.240305 | Ether / IP / UDP 10.100.48.20:53743 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:03.246300 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:03.263725 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:03.267686 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:03.286715 | Ether / ARP who has 10.100.51.164 says 10.100.50.120 / Padding
+2025-04-02 10:32:03.293717 | Ether / IP / UDP 10.100.56.31:53899 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:03.313835 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.359482 | Ether / IP / UDP 10.100.48.7:53247 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:03.404855 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.416023 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:03.444047 | Ether / IP / TCP 104.18.36.252:https > 10.100.49.37:65154 PA / Raw
+2025-04-02 10:32:03.445047 | Ether / IP / TCP 10.100.49.37:65154 > 104.18.36.252:https PA / Raw
+2025-04-02 10:32:03.464080 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:03.504859 | Ether / IP / TCP 104.18.36.252:https > 10.100.49.37:65154 A / Padding
+2025-04-02 10:32:03.535629 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.549926 | Ether / IP / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:03.550934 | Ether / IPv6 / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:03.654696 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:03.670753 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.699756 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:03.755216 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:03.802824 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 FPA / Raw
+2025-04-02 10:32:03.804826 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https A
+2025-04-02 10:32:03.805818 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https PA / Raw
+2025-04-02 10:32:03.805818 | Ether / IP / TCP 10.100.49.37:65357 > 51.132.193.104:https FA
+2025-04-02 10:32:03.915381 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:03.962973 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:03.997961 | Ether / IP / TCP 51.132.193.104:https > 10.100.49.37:65357 A / Padding
+2025-04-02 10:32:04.118384 | Ether / ARP who has 10.100.51.164 says 10.100.50.120 / Padding
+2025-04-02 10:32:04.127704 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:04.180088 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:04.220452 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:04.321775 | Ether / ARP who has 10.100.51.223 says 10.100.55.254 / Padding
+2025-04-02 10:32:04.322776 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:04.323782 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:04.337029 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:04.384430 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:04.424335 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:04.425340 | Ether / IP / UDP / mDNS Qry b'_spotify-social-listening._tcp.local.'
+2025-04-02 10:32:04.527020 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:04.527991 | Ether / IPv6 / UDP / mDNS Qry b'_spotify-social-listening._tcp.local.'
+2025-04-02 10:32:04.578950 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:04.629560 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:04.633085 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:04.732078 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:04.807958 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:04.818940 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:04.833942 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:04.836938 | Ether / IP / UDP / mDNS Ans
+2025-04-02 10:32:04.838930 | Ether / IPv6 / UDP / mDNS Ans
+2025-04-02 10:32:04.897205 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:04.936479 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.040614 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:05.058196 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:05.099387 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:05.141283 | Ether / ARP who has 10.100.51.164 says 10.100.50.120 / Padding
+2025-04-02 10:32:05.144291 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:05.244154 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.346082 | Ether / ARP who has 10.100.51.223 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.347103 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.348096 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.386576 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:05.394063 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:05.448614 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.449615 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.450618 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.469613 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:05.607544 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:05.654477 | Ether / IP / UDP / mDNS Qry b'{"nm":"Yuvrajjj","as":"[8194]","ip":"254"}._mi-connect._udp.local.'
+2025-04-02 10:32:05.656489 | Ether / IPv6 / UDP / mDNS Qry b'{"nm":"Yuvrajjj","as":"[8194]","ip":"254"}._mi-connect._udp.local.'
+2025-04-02 10:32:05.658484 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:05.755067 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.830649 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:05.858326 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:05.876334 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:05.961898 | Ether / IP / UDP / BOOTP / DHCP Request
+2025-04-02 10:32:05.962811 | Ether / ARP who has 10.100.55.254 says 10.100.49.226 / Padding
+2025-04-02 10:32:05.963822 | Ether / IP / UDP 10.100.48.22:54404 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:05.965328 | Ether / IP / UDP / mDNS Qry b'Android.local.'
+2025-04-02 10:32:06.060336 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:06.062351 | Ether / ARP who has 10.100.50.230 says 10.100.49.154 / Padding
+2025-04-02 10:32:06.064347 | Ether / IPv6 / UDP / mDNS Qry b'Android.local.'
+2025-04-02 10:32:06.109338 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:06.165345 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:06.167348 | Ether / IP / UDP / mDNS Qry b'Android.local.'
+2025-04-02 10:32:06.259406 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:06.268391 | Ether / IPv6 / UDP / mDNS Qry b'Android.local.'
+2025-04-02 10:32:06.270401 | Ether / IP / UDP / mDNS Qry b'{"nm":"Yuvrajjj","as":"[8194]","ip":"254"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.273402 | Ether / IPv6 / UDP / mDNS Qry b'{"nm":"Yuvrajjj","as":"[8194]","ip":"254"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.275394 | Ether / IP / UDP / mDNS Ans 10.100.49.154
+2025-04-02 10:32:06.277394 | Ether / IPv6 / UDP / mDNS Ans 10.100.49.154
+2025-04-02 10:32:06.313152 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:06.370047 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:06.371182 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:06.372199 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:06.374198 | Ether / IP / UDP / mDNS Qry b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.375196 | Ether / IPv6 / UDP / mDNS Qry b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.472558 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:06.474581 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:06.475747 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:06.476768 | Ether / IP / UDP / mDNS Qry b'{"nm":"Yuvrajjj","as":"[8194]","ip":"254"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.478775 | Ether / IPv6 / UDP / mDNS Qry b'{"nm":"Yuvrajjj","as":"[8194]","ip":"254"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.487771 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:06.529770 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:06.574905 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:06.677342 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:06.709706 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:06.763177 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:06.779329 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:06.782364 | Ether / IP / UDP / mDNS Qry b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.784340 | Ether / IPv6 / UDP / mDNS Qry b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.786338 | Ether / IP / UDP / mDNS Qry b'{"nm":"Yuvrajjj","as":"[8194]","ip":"254"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.881968 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:06.883986 | Ether / IPv6 / UDP / mDNS Qry b'{"nm":"Yuvrajjj","as":"[8194]","ip":"254"}._mi-connect._udp.local.'
+2025-04-02 10:32:06.968774 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:06.984491 | Ether / IP / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:06.986495 | Ether / IPv6 / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:06.989493 | Ether / IP / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:07.013495 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:07.086451 | Ether / ARP who has 10.100.49.73 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.090449 | Ether / IPv6 / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:07.092456 | Ether / IP / UDP / mDNS Qry b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:07.093450 | Ether / IPv6 / UDP / mDNS Qry b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:07.189647 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.195944 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:07.247141 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:07.292069 | Ether / IP / UDP 10.100.48.21:45474 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:07.294066 | Ether / IP / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:07.295060 | Ether / IPv6 / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:07.297057 | Ether / IP / UDP / mDNS Ans [b'idHash=ZDVk\n', b'dev=1', b'sec=2', b'apps=[8194]', b'name=Biswajit', b'flags=Ag==\n', b'version=65544', b'commonData=0', b'appsData=AQIEgw==\n']
+2025-04-02 10:32:07.394469 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.395484 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.396470 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.398466 | Ether / IPv6 / UDP / mDNS Ans [b'idHash=ZDVk\n', b'dev=1', b'sec=2', b'apps=[8194]', b'name=Biswajit', b'flags=Ag==\n', b'version=65544', b'commonData=0', b'appsData=AQIEgw==\n']
+2025-04-02 10:32:07.399468 | Ether / IP / UDP / mDNS Ans b'{"nm":"Redmi Note 9","as":"[8194]","ip":"101"}._mi-connect._udp.local.'
+2025-04-02 10:32:07.400470 | Ether / IPv6 / UDP / mDNS Ans b'{"nm":"Redmi Note 9","as":"[8194]","ip":"101"}._mi-connect._udp.local.'
+2025-04-02 10:32:07.463426 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:07.496123 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.513126 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:07.523116 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https PA / Raw
+2025-04-02 10:32:07.524118 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https PA / Raw
+2025-04-02 10:32:07.525115 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.526117 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.527124 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.528119 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.529118 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.530117 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.531115 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.532113 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.533112 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.534112 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.535113 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.537112 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https PA / Raw
+2025-04-02 10:32:07.538110 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.539111 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.540113 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.541116 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.542115 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.543115 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.545115 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:07.546111 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https PA / Raw
+2025-04-02 10:32:07.587177 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.589165 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.590164 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.590164 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.591238 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.592389 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.593392 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.594389 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.595391 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.596394 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.597391 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.598387 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 PA / Raw
+2025-04-02 10:32:07.599391 | Ether / IP / UDP 10.100.48.15:46761 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:07.600391 | Ether / ARP who has 10.100.55.254 says 10.100.49.226 / Padding
+2025-04-02 10:32:07.601387 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.601387 | Ether / IP / UDP 10.100.52.249:57564 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:07.636001 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A
+2025-04-02 10:32:07.638004 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 PA / Raw
+2025-04-02 10:32:07.639006 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 PA / Raw
+2025-04-02 10:32:07.640006 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A
+2025-04-02 10:32:07.641005 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 PA / Raw
+2025-04-02 10:32:07.642005 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https PA / Raw
+2025-04-02 10:32:07.681858 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:07.702011 | Ether / IP / UDP 10.100.48.16:57643 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:07.729676 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:07.743213 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:07.803402 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.804403 | Ether / ARP who has 10.100.51.224 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.805405 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.905961 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:07.907974 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:07.908980 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:07.911705 | Ether / IP / UDP / mDNS Ans [b'idHash=ZDVk\n', b'dev=1', b'sec=2', b'apps=[8194]', b'name=Biswajit', b'flags=Ag==\n', b'version=65544', b'commonData=0', b'appsData=AQIEgw==\n']
+2025-04-02 10:32:07.914704 | Ether / IPv6 / UDP / mDNS Ans [b'idHash=ZDVk\n', b'dev=1', b'sec=2', b'apps=[8194]', b'name=Biswajit', b'flags=Ag==\n', b'version=65544', b'commonData=0', b'appsData=AQIEgw==\n']
+2025-04-02 10:32:07.936754 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:07.978594 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:08.008897 | Ether / IP / UDP 10.100.48.18:51669 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:08.012912 | Ether / IP / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:08.110751 | Ether / ARP who has 10.100.49.73 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.114772 | Ether / IPv6 / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:08.118772 | Ether / IP / TCP 10.100.49.37:65238 > 142.250.182.234:https A / Raw
+2025-04-02 10:32:08.165665 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:08.188663 | Ether / IP / TCP 142.250.182.234:https > 10.100.49.37:65238 A
+2025-04-02 10:32:08.210659 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:08.212661 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.271933 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:08.389808 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:08.417774 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.418768 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.419780 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.420771 | Ether / IP / UDP 10.100.49.138:50087 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:08.442819 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:08.519812 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.549625 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A
+2025-04-02 10:32:08.623253 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.642966 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:08.692164 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:08.724767 | Ether / ARP who has 10.100.50.180 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.827764 | Ether / ARP who has 10.100.51.224 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.828778 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.829770 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:08.866263 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:08.921049 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:08.930068 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.032670 | Ether / ARP who has 10.100.55.254 says 10.100.51.192 / Padding
+2025-04-02 10:32:09.034666 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:09.036358 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:09.135192 | Ether / ARP who has 10.100.49.73 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.144022 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:09.199869 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:09.236888 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.339654 | Ether / IP / UDP / mDNS Ans b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:09.382668 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:09.434659 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:09.442660 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.444659 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.445663 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.446656 | Ether / IPv6 / UDP / mDNS Ans b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:09.448661 | Ether / IP / UDP 10.100.52.132:57621 > 10.100.55.255:57621 / Raw
+2025-04-02 10:32:09.449659 | Ether / IP / UDP / mDNS Ans b'{"nm":"Redmi Note 9","as":"[8194]","ip":"101"}._mi-connect._udp.local.'
+2025-04-02 10:32:09.544470 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.546480 | Ether / IPv6 / UDP / mDNS Ans b'{"nm":"Redmi Note 9","as":"[8194]","ip":"101"}._mi-connect._udp.local.'
+2025-04-02 10:32:09.577710 | Ether / IP / TCP 35.227.233.235:https > 10.100.49.37:65224 PA / Raw
+2025-04-02 10:32:09.579217 | Ether / IP / TCP 10.100.49.37:65224 > 35.227.233.235:https PA / Raw
+2025-04-02 10:32:09.579217 | Ether / IP / TCP 10.100.49.37:65224 > 35.227.233.235:https PA / Raw
+2025-04-02 10:32:09.635241 | Ether / IP / TCP 35.227.233.235:https > 10.100.49.37:65224 A / Padding
+2025-04-02 10:32:09.646237 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:09.647239 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.719011 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:09.748671 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.750665 | Ether / ARP who has 10.100.50.180 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.751675 | Ether / IP / UDP 10.100.48.2:36126 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:09.752085 | Ether / ARP who has 10.100.51.224 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.753105 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.851388 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.853386 | Ether / IP / UDP / mDNS Ans b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:09.855386 | Ether / IPv6 / UDP / mDNS Ans b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:09.856384 | Ether / IP / UDP / mDNS Qry b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:09.867384 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:09.874386 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:09.950383 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:09.954386 | Ether / ARP who has 10.100.51.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:09.955391 | Ether / IPv6 / UDP / mDNS Qry b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:09.957384 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:09.958384 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:09.960382 | Ether / IP / UDP / mDNS Ans b'Android-2.local.'
+2025-04-02 10:32:09.962385 | Ether / IPv6 / UDP / mDNS Ans b'Android-2.local.'
+2025-04-02 10:32:10.020385 | Ether / IP / TCP 142.250.182.234:https > 10.100.49.37:65236 PA / Raw
+2025-04-02 10:32:10.029390 | Ether / IP / TCP 10.100.49.37:65236 > 142.250.182.234:https PA / Raw
+2025-04-02 10:32:10.030387 | Ether / IP / TCP 10.100.49.37:65236 > 142.250.182.234:https PA / Raw
+2025-04-02 10:32:10.060384 | Ether / IP / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:10.063382 | Ether / IPv6 / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:10.072387 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:10.104382 | Ether / IP / TCP 142.250.182.234:https > 10.100.49.37:65236 A / Padding
+2025-04-02 10:32:10.105387 | Ether / IP / TCP 142.250.182.234:https > 10.100.49.37:65236 A / Padding
+2025-04-02 10:32:10.123386 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:10.158385 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.160384 | Ether / IP / UDP / mDNS Qry b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:10.261383 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.262387 | Ether / IPv6 / UDP / mDNS Qry b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:10.283385 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:10.329397 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:10.363381 | Ether / ARP who has 10.100.53.116 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.365389 | Ether / IP / UDP / mDNS Qry b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:10.466392 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.467393 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.468397 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.469385 | Ether / IPv6 / UDP / mDNS Qry b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:10.470384 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:10.471383 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:10.512401 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:10.517382 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:10.568389 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.594384 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:10.670384 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.673391 | Ether / IP / UDP / mDNS Ans b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:10.675387 | Ether / IPv6 / UDP / mDNS Ans b'MSI._dosvc._tcp.local.'
+2025-04-02 10:32:10.677384 | Ether / IP / UDP / mDNS Ans
+2025-04-02 10:32:10.679392 | Ether / IPv6 / UDP / mDNS Ans
+2025-04-02 10:32:10.680391 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.682391 | Ether / ARP who has 10.100.50.180 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.705386 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.713389 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:10.752385 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:10.765390 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.812391 | Ether / ARP who has 10.100.51.224 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.835384 | Ether / ARP who has 10.100.51.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:10.912381 | Ether / IP / UDP / DNS Qry b'gfwsl.geforce.com.'
+2025-04-02 10:32:10.926382 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:10.942908 | Ether / IP / UDP 10.100.48.13:34822 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:10.966903 | Ether / IP / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:10.969908 | Ether / IPv6 / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:10.970907 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:11.015307 | Ether / IP / UDP / DNS Qry b'gfwsl.geforce.com.'
+2025-04-02 10:32:11.019302 | Ether / IP / UDP / DNS Ans b'origin-gfwsl.gtm.nvidia.net.'
+2025-04-02 10:32:11.020291 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https S
+2025-04-02 10:32:11.094289 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 SA
+2025-04-02 10:32:11.095294 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https A
+2025-04-02 10:32:11.096293 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.097290 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https PA / Raw
+2025-04-02 10:32:11.097827 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 A / Padding
+2025-04-02 10:32:11.120726 | Ether / IP / UDP / DNS Ans b'origin-gfwsl.gtm.nvidia.net.'
+2025-04-02 10:32:11.158720 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:11.167719 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 A / Raw
+2025-04-02 10:32:11.168720 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 PA / Raw
+2025-04-02 10:32:11.170725 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 PA / Raw
+2025-04-02 10:32:11.171721 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https A
+2025-04-02 10:32:11.172719 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 PA / Raw
+2025-04-02 10:32:11.173714 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https A
+2025-04-02 10:32:11.175718 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https PA / Raw
+2025-04-02 10:32:11.176718 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.202719 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:11.216711 | Ether / IP / UDP 10.100.48.3:34516 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:11.218725 | Ether / IP / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:11.220722 | Ether / IPv6 / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:11.225491 | Ether / ARP who has 10.100.53.116 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.275534 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 PA / Raw
+2025-04-02 10:32:11.278180 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https PA / Raw
+2025-04-02 10:32:11.331630 | Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+2025-04-02 10:32:11.332612 | Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+2025-04-02 10:32:11.333623 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:11.334003 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:11.335021 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.336022 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.337020 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.338025 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.339022 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.340024 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.341023 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.342022 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.342022 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.343022 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.344025 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.346027 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:11.347030 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.348024 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.349026 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.350026 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.350026 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.351023 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.352026 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.353029 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.355022 | Ether / IP / UDP 10.100.49.138:50087 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:11.356024 | Ether / IP / UDP / mDNS Ans b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:11.357026 | Ether / IPv6 / UDP / mDNS Ans b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:11.358022 | Ether / IP / UDP / mDNS Ans b'{"nm":"Redmi Note 9","as":"[8194]","ip":"101"}._mi-connect._udp.local.'
+2025-04-02 10:32:11.360013 | Ether / IPv6 / UDP / mDNS Ans b'{"nm":"Redmi Note 9","as":"[8194]","ip":"101"}._mi-connect._udp.local.'
+2025-04-02 10:32:11.370622 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 A / Raw
+2025-04-02 10:32:11.371632 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 PA / Raw
+2025-04-02 10:32:11.373633 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 PA / Raw
+2025-04-02 10:32:11.374633 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:11.375648 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 PA / Raw
+2025-04-02 10:32:11.376635 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 FA / Padding
+2025-04-02 10:32:11.378635 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https A
+2025-04-02 10:32:11.379649 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https PA / Raw
+2025-04-02 10:32:11.381638 | Ether / IP / TCP 10.100.49.37:65358 > 23.64.1.218:https FA
+2025-04-02 10:32:11.383637 | Ether / IP / UDP 10.100.48.6:42386 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:11.384633 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.385636 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.387645 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.389642 | Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+2025-04-02 10:32:11.391643 | Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+2025-04-02 10:32:11.409634 | Ether / IP / UDP 10.100.48.9:56097 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:11.420629 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:11.430631 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.434631 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.443631 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 R / Padding
+2025-04-02 10:32:11.444632 | Ether / IP / TCP 23.64.1.218:https > 10.100.49.37:65358 R / Padding
+2025-04-02 10:32:11.468635 | Ether / IP / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:11.469648 | Ether / IPv6 / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:11.517634 | Ether / IP / TCP 10.100.49.37:65355 > 163.70.144.61:5222 FA
+2025-04-02 10:32:11.555630 | Ether / ARP who has 10.100.55.254 says 10.100.50.115 / Padding
+2025-04-02 10:32:11.564629 | Ether / ARP who has 10.100.50.184 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.572632 | Ether / IP / UDP 10.100.48.12:55564 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:11.601636 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:11.609636 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.610633 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.612630 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.613631 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.614636 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.615635 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.617632 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.618632 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.619630 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.620633 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.621636 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.622635 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:11.624635 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.625632 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:11.626630 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:11.627630 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.628631 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.629638 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.630638 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:11.632633 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65355 A / Padding
+2025-04-02 10:32:11.654634 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:11.670633 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:11.720635 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:11.723630 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:11.764627 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.782248 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.834650 | Ether / ARP who has 10.100.51.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:11.849091 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:11.887079 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.889078 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.890086 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.891087 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.892087 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.894091 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:11.896075 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:11.897078 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65355 FA / Padding
+2025-04-02 10:32:11.898079 | Ether / IP / TCP 10.100.49.37:65355 > 163.70.144.61:5222 A
+2025-04-02 10:32:12.085620 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:12.097660 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:12.099660 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:12.206934 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:12.309652 | Ether / IP / UDP 10.100.48.11:50353 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:12.310651 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:12.311659 | Ether / ARP who has 10.100.53.116 says 10.100.55.254 / Padding
+2025-04-02 10:32:12.363608 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:12.399651 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https S
+2025-04-02 10:32:12.407651 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:12.439292 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:12.484227 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:12.513811 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:12.514828 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:12.515823 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:12.562607 | Ether / IP / TCP 10.100.49.37:64456 > 142.250.4.188:5228 A / Raw
+2025-04-02 10:32:12.616216 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:12.653387 | Ether / IP / TCP 142.250.4.188:5228 > 10.100.49.37:64456 A
+2025-04-02 10:32:12.690016 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 SA
+2025-04-02 10:32:12.691171 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https A
+2025-04-02 10:32:12.692186 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https PA / Raw
+2025-04-02 10:32:12.693191 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 A / Padding
+2025-04-02 10:32:12.719517 | Ether / IP / UDP 10.100.48.10:38190 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:12.815328 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:12.821341 | Ether / IP / UDP 10.100.48.8:60251 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:12.824334 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:12.827332 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.829330 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.830339 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.831339 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.832335 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:12.833332 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:12.869334 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:12.871341 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:12.904333 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:12.906337 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:12.907338 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:12.917335 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.921342 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.924337 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.927337 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:12.930342 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.931331 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:12.933337 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.935355 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.937330 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.938333 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:12.939331 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:12.940330 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:12.942334 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:12.944336 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:12.983332 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 PA / Raw
+2025-04-02 10:32:12.984330 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 PA / Raw
+2025-04-02 10:32:12.985327 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 PA / Raw
+2025-04-02 10:32:12.986338 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https A
+2025-04-02 10:32:12.987337 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 PA / Raw
+2025-04-02 10:32:12.987337 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https A
+2025-04-02 10:32:12.988337 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https PA / Raw
+2025-04-02 10:32:12.994329 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:12.995327 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:12.996332 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:12.997331 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:12.998333 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:13.026095 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:13.217278 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:13.231101 | Ether / ARP who has 10.100.50.52 says 10.100.55.254 / Padding
+2025-04-02 10:32:13.232977 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:13.243898 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:13.244902 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:13.246907 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:13.247912 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:13.268895 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:13.269891 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:13.270892 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:13.271899 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:13.274895 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 A / Padding
+2025-04-02 10:32:13.275887 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 PA / Raw
+2025-04-02 10:32:13.276889 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 PA / Raw
+2025-04-02 10:32:13.277887 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https A
+2025-04-02 10:32:13.278887 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https PA / Raw
+2025-04-02 10:32:13.279887 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https PA / Raw
+2025-04-02 10:32:13.315040 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:13.332328 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:13.334340 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:13.436427 | Ether / IP / UDP 10.100.48.20:53743 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:13.437431 | Ether / IP / UDP / mDNS Ans b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:13.438424 | Ether / IPv6 / UDP / mDNS Ans b'{"nm":"Biswajit","as":"[8194]","ip":"230"}._mi-connect._udp.local.'
+2025-04-02 10:32:13.494083 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A
+2025-04-02 10:32:13.538143 | Ether / IP / UDP 10.100.56.31:53899 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:13.539144 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:13.540143 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:13.541147 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:13.542142 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:13.543142 | Ether / IP / UDP / mDNS Qry b'_674A0243._sub._googlecast._tcp.local.'
+2025-04-02 10:32:13.544141 | Ether / IPv6 / UDP / mDNS Qry b'_674A0243._sub._googlecast._tcp.local.'
+2025-04-02 10:32:13.569224 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 A / Padding
+2025-04-02 10:32:13.570223 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 A / Padding
+2025-04-02 10:32:13.577460 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 PA / Raw
+2025-04-02 10:32:13.578463 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 FA / Raw
+2025-04-02 10:32:13.579462 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https A
+2025-04-02 10:32:13.580473 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https PA / Raw
+2025-04-02 10:32:13.581466 | Ether / IP / TCP 10.100.49.37:65359 > 72.25.64.2:https FA
+2025-04-02 10:32:13.640814 | Ether / IP / UDP 10.100.48.7:53247 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:13.641820 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:13.642744 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:13.717422 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:13.718411 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.719421 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.720422 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.721422 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.722423 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.723414 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.724415 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.725414 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.726423 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.727411 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:13.728412 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:13.829012 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:13.831046 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:13.833038 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:13.834044 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:13.845026 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:13.867098 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 A / Padding
+2025-04-02 10:32:13.869095 | Ether / IP / TCP 72.25.64.2:https > 10.100.49.37:65359 A / Padding
+2025-04-02 10:32:13.947100 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:13.995141 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:13.996129 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:13.997133 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:14.052111 | Ether / IP / UDP / mDNS Ans b'Android-2.local.'
+2025-04-02 10:32:14.054108 | Ether / IPv6 / UDP / mDNS Ans b'Android-2.local.'
+2025-04-02 10:32:14.057106 | Ether / IP / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:14.061107 | Ether / IPv6 / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:14.152438 | Ether / ARP who has 10.100.55.254 says 10.100.51.192 / Padding
+2025-04-02 10:32:14.243141 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:14.254639 | Ether / ARP who has 10.100.50.52 says 10.100.55.254 / Padding
+2025-04-02 10:32:14.291517 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:14.337368 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:14.339376 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:14.341377 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:14.342375 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:14.357371 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:14.358378 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:14.359368 | Ether / ARP who has 10.100.50.55 says 10.100.50.123 / Padding
+2025-04-02 10:32:14.459443 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:14.460464 | Ether / IP / UDP 10.100.49.138:50087 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:14.562193 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:14.563190 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:14.564202 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:14.565197 | Ether / IP / UDP / mDNS Qry b'_674A0243._sub._googlecast._tcp.local.'
+2025-04-02 10:32:14.566199 | Ether / IPv6 / UDP / mDNS Qry b'_674A0243._sub._googlecast._tcp.local.'
+2025-04-02 10:32:14.664325 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:14.666468 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:14.869013 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:14.871010 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:14.874009 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:14.971602 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.073711 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.176389 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.228322 | Ether / ARP who has 10.100.49.52 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.229316 | Ether / ARP who has 10.100.50.52 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.234572 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.264923 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.385682 | Ether / ARP who has 10.100.55.254 says 10.100.48.93 / Padding
+2025-04-02 10:32:15.444689 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.445690 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.460807 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.483834 | Ether / IP / UDP / mDNS Qry b'_674A0243._sub._googlecast._tcp.local.'
+2025-04-02 10:32:15.485839 | Ether / IPv6 / UDP / mDNS Qry b'_674A0243._sub._googlecast._tcp.local.'
+2025-04-02 10:32:15.494987 | Ether / IP / UDP 10.100.50.150:59965 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:15.504686 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.665051 | Ether / IP / UDP 10.100.49.37:63179 > 142.250.70.67:https / Raw
+2025-04-02 10:32:15.666040 | Ether / IP / UDP 10.100.49.37:63179 > 142.250.70.67:https / Raw
+2025-04-02 10:32:15.666292 | Ether / IP / UDP 10.100.49.37:63179 > 142.250.70.67:https / Raw
+2025-04-02 10:32:15.667309 | Ether / IP / UDP 10.100.49.37:63179 > 142.250.70.67:https / Raw
+2025-04-02 10:32:15.668316 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https PA / Raw
+2025-04-02 10:32:15.669312 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https PA / Raw
+2025-04-02 10:32:15.669312 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https PA / Raw
+2025-04-02 10:32:15.703766 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.721925 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 A / Padding
+2025-04-02 10:32:15.723942 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:15.724940 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:15.725945 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:15.726942 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https A
+2025-04-02 10:32:15.727946 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:15.728938 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:15.729945 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:15.730942 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https A
+2025-04-02 10:32:15.731936 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:15.732953 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https PA / Raw
+2025-04-02 10:32:15.733941 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https PA / Raw
+2025-04-02 10:32:15.734946 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:15.735936 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:15.739953 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.740965 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.757973 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:15.758970 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.759963 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.760974 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.761964 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.762971 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.763983 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.765004 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.766003 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.767001 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.768004 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.769003 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.770002 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:15.771002 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.772003 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.773001 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.773999 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.775005 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.776007 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.777002 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.778004 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:15.779001 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:15.779001 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.781999 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 A / Padding
+2025-04-02 10:32:15.782996 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:15.783991 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:15.801850 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.802843 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.803853 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.804845 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.805855 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.806853 | Ether / IP / UDP 10.100.49.37:63179 > 142.250.70.67:https / Raw
+2025-04-02 10:32:15.807848 | Ether / IP / UDP 10.100.49.37:63179 > 142.250.70.67:https / Raw
+2025-04-02 10:32:15.819328 | Ether / IP / TCP 10.100.49.37:65360 > 35.190.80.1:https S
+2025-04-02 10:32:15.821325 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:15.822338 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:15.823333 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:15.834661 | Ether / IP / UDP 10.100.49.37:63179 > 142.250.70.67:https / Raw
+2025-04-02 10:32:15.854663 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.875771 | Ether / IP / TCP 35.190.80.1:https > 10.100.49.37:65360 SA
+2025-04-02 10:32:15.876759 | Ether / IP / TCP 10.100.49.37:65360 > 35.190.80.1:https A
+2025-04-02 10:32:15.877776 | Ether / IP / TCP 10.100.49.37:65360 > 35.190.80.1:https A / Raw
+2025-04-02 10:32:15.878758 | Ether / IP / TCP 10.100.49.37:65360 > 35.190.80.1:https PA / Raw
+2025-04-02 10:32:15.879762 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.880768 | Ether / IP / TCP 35.190.80.1:https > 10.100.49.37:65360 A / Padding
+2025-04-02 10:32:15.881758 | Ether / IP / TCP 35.190.80.1:https > 10.100.49.37:65360 A
+2025-04-02 10:32:15.882758 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:15.883758 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:15.884759 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:15.885757 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:15.886757 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:15.905298 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.906299 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.907305 | Ether / IP / UDP 10.100.49.37:63179 > 142.250.70.67:https / Raw
+2025-04-02 10:32:15.908307 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:15.909296 | Ether / IP / UDP 10.100.49.37:63179 > 142.250.70.67:https / Raw
+2025-04-02 10:32:15.935317 | Ether / IP / TCP 35.190.80.1:https > 10.100.49.37:65360 A / Raw
+2025-04-02 10:32:15.936328 | Ether / IP / TCP 35.190.80.1:https > 10.100.49.37:65360 PA / Raw
+2025-04-02 10:32:15.937318 | Ether / IP / TCP 35.190.80.1:https > 10.100.49.37:65360 PA / Raw
+2025-04-02 10:32:15.938377 | Ether / IP / TCP 10.100.49.37:65360 > 35.190.80.1:https A
+2025-04-02 10:32:15.938377 | Ether / IP / TCP 10.100.49.37:65360 > 35.190.80.1:https PA / Raw
+2025-04-02 10:32:15.980539 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.981544 | Ether / IP / UDP 142.250.70.67:https > 10.100.49.37:63179 / Raw
+2025-04-02 10:32:15.992459 | Ether / IP / TCP 35.190.80.1:https > 10.100.49.37:65360 PA / Raw
+2025-04-02 10:32:15.996454 | Ether / IP / UDP 10.100.48.22:54404 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:16.017898 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.026889 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.035661 | Ether / IP / TCP 10.100.49.37:65360 > 35.190.80.1:https A
+2025-04-02 10:32:16.036661 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:16.037664 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:16.038661 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:16.039658 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:16.040650 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:16.041656 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:16.042655 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:16.057882 | Ether / IP / TCP 49.44.88.225:https > 10.100.49.37:65279 PA / Raw
+2025-04-02 10:32:16.058896 | Ether / IP / TCP 10.100.49.37:65279 > 49.44.88.225:https A
+2025-04-02 10:32:16.081868 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:16.082862 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:16.084864 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.124263 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:16.125268 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:16.127268 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:16.144666 | Ether / ARP who has 10.100.49.52 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.163643 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:16.206121 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:16.235448 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:16.264514 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.290004 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.419492 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:16.420490 | Ether / IP / UDP 10.100.49.37:60110 > 35.190.80.1:https / Raw
+2025-04-02 10:32:16.455256 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.501515 | Ether / IP / UDP 35.190.80.1:https > 10.100.49.37:60110 / Raw
+2025-04-02 10:32:16.504846 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.516118 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.559779 | Ether / IP / TCP 4.213.25.240:https > 10.100.49.37:55413 PA / Raw
+2025-04-02 10:32:16.561779 | Ether / IP / TCP 10.100.49.37:55413 > 4.213.25.240:https PA / Raw
+2025-04-02 10:32:16.591778 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 S
+2025-04-02 10:32:16.609288 | Ether / IP / UDP 10.100.52.28:57621 > 10.100.55.255:57621 / Raw
+2025-04-02 10:32:16.612291 | Ether / IP / TCP 13.107.246.72:https > 10.100.49.37:65290 PA / Raw
+2025-04-02 10:32:16.613284 | Ether / IP / TCP 13.107.246.72:https > 10.100.49.37:65290 FPA / Raw
+2025-04-02 10:32:16.614285 | Ether / IP / TCP 10.100.49.37:65290 > 13.107.246.72:https A
+2025-04-02 10:32:16.615284 | Ether / IP / TCP 10.100.49.37:65290 > 13.107.246.72:https FA
+2025-04-02 10:32:16.663862 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 SA
+2025-04-02 10:32:16.665863 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 A
+2025-04-02 10:32:16.666852 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:16.667865 | Ether / IP / TCP 13.107.246.72:https > 10.100.49.37:65290 A / Padding
+2025-04-02 10:32:16.682852 | Ether / IP / TCP 4.213.25.240:https > 10.100.49.37:55413 A / Padding
+2025-04-02 10:32:16.694857 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.736664 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:16.745651 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:16.774196 | Ether / ARP who has 10.100.49.227 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.798258 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:16.854692 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.874849 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:16.924481 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:16.925486 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:16.926482 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 A
+2025-04-02 10:32:16.927485 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:16.999729 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:17.014462 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.024461 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.083446 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.085271 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.086275 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 A
+2025-04-02 10:32:17.087272 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:17.087272 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:17.088260 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:17.089271 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.090276 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:17.144684 | Ether / ARP who has 10.100.49.52 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.155717 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.156720 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.157722 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.159711 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 A
+2025-04-02 10:32:17.160715 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:17.161725 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:17.163719 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:17.164725 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:17.165711 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:17.168718 | Ether / ARP who has 10.100.53.89 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.185711 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.236281 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 A
+2025-04-02 10:32:17.272635 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:17.284694 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.298323 | Ether / IP / UDP 10.100.48.21:45474 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:17.350980 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.353997 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.354998 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 A
+2025-04-02 10:32:17.356999 | Ether / IP / TCP 10.100.49.37:65273 > 180.149.52.98:https PA / Raw
+2025-04-02 10:32:17.372870 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.396837 | Ether / IP / TCP 180.149.52.98:https > 10.100.49.37:65273 PA / Raw
+2025-04-02 10:32:17.398828 | Ether / IP / TCP 10.100.49.37:65273 > 180.149.52.98:https A
+2025-04-02 10:32:17.399832 | Ether / IP / TCP 180.149.52.98:https > 10.100.49.37:65273 PA / Raw
+2025-04-02 10:32:17.400836 | Ether / IP / TCP 180.149.52.98:https > 10.100.49.37:65273 A / Raw
+2025-04-02 10:32:17.401822 | Ether / IP / TCP 180.149.52.98:https > 10.100.49.37:65273 A / Raw
+2025-04-02 10:32:17.402826 | Ether / IP / TCP 180.149.52.98:https > 10.100.49.37:65273 PA / Raw
+2025-04-02 10:32:17.403831 | Ether / IP / TCP 10.100.49.37:65273 > 180.149.52.98:https A
+2025-04-02 10:32:17.404454 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.405465 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 A
+2025-04-02 10:32:17.410576 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:17.454313 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 A
+2025-04-02 10:32:17.455302 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.461340 | Ether / IP / UDP 10.100.48.15:46761 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:17.514764 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.520755 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https PA / Raw
+2025-04-02 10:32:17.521766 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:17.522758 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:17.523757 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A / Raw
+2025-04-02 10:32:17.524754 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https PA / Raw
+2025-04-02 10:32:17.525754 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https PA / Raw
+2025-04-02 10:32:17.526119 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https PA / Raw
+2025-04-02 10:32:17.578790 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 A / Padding
+2025-04-02 10:32:17.579791 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:17.580791 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:17.581790 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https A
+2025-04-02 10:32:17.582790 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.583798 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:17.584782 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:17.584782 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https A
+2025-04-02 10:32:17.585784 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https PA / Raw
+2025-04-02 10:32:17.586795 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:17.587790 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:17.588790 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:17.605235 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:17.606223 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:17.607241 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https A
+2025-04-02 10:32:17.608221 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 PA / Raw
+2025-04-02 10:32:17.618221 | Ether / IP / UDP 10.100.48.16:57643 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:17.641985 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 PA / Raw
+2025-04-02 10:32:17.642977 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 PA / Raw
+2025-04-02 10:32:17.643979 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 PA / Raw
+2025-04-02 10:32:17.644976 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https A
+2025-04-02 10:32:17.645975 | Ether / IP / TCP 10.100.49.37:64557 > 172.64.155.209:https PA / Raw
+2025-04-02 10:32:17.646975 | Ether / IP / TCP 8.8.8.8:https > 10.100.49.37:65223 A / Padding
+2025-04-02 10:32:17.655725 | Ether / IP / TCP 10.100.49.37:65223 > 8.8.8.8:https A
+2025-04-02 10:32:17.694632 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.707446 | Ether / IP / TCP 172.64.155.209:https > 10.100.49.37:64557 A / Padding
+2025-04-02 10:32:17.874722 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:17.940999 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.004282 | Ether / IP / UDP 10.100.48.18:51669 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:18.025050 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.027043 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.028042 | Ether / IP / UDP / DNS Qry b'prod.otel.kaizen.nvidia.com.'
+2025-04-02 10:32:18.110230 | Ether / IP / UDP / DNS Ans 52.199.50.3
+2025-04-02 10:32:18.112215 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https S
+2025-04-02 10:32:18.164623 | Ether / ARP who has 10.100.53.89 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.187642 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.190104 | Ether / ARP who has 10.100.51.28 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.220150 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:18.222147 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.223148 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.224149 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.224149 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.225152 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.226149 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.228149 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.228149 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.229206 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.230548 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.231568 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:18.232570 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:18.233564 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:18.276718 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 SA
+2025-04-02 10:32:18.277712 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https A
+2025-04-02 10:32:18.278715 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https PA / Raw
+2025-04-02 10:32:18.279704 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 A / Padding
+2025-04-02 10:32:18.284734 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.442455 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 A / Raw
+2025-04-02 10:32:18.443458 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 A / Raw
+2025-04-02 10:32:18.444459 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https A
+2025-04-02 10:32:18.445465 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 PA / Raw
+2025-04-02 10:32:18.446465 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:18.447464 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https PA / Raw
+2025-04-02 10:32:18.448460 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:18.472613 | Ether / IP / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:18.473609 | Ether / IPv6 / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:18.498388 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:18.499566 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:18.500584 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:18.501180 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:18.502203 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:18.503200 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:18.504201 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.515200 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.574283 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.610044 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 A / Padding
+2025-04-02 10:32:18.611078 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 PA / Raw
+2025-04-02 10:32:18.612066 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 PA / Raw
+2025-04-02 10:32:18.613068 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https A
+2025-04-02 10:32:18.614069 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https PA / Raw
+2025-04-02 10:32:18.615064 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https PA / Raw
+2025-04-02 10:32:18.616063 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https PA / Raw
+2025-04-02 10:32:18.617067 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https PA / Raw
+2025-04-02 10:32:18.741302 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:18.743297 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:18.778359 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 PA / Raw
+2025-04-02 10:32:18.781352 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 A / Padding
+2025-04-02 10:32:18.794346 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 PA / Raw
+2025-04-02 10:32:18.796359 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 PA / Raw
+2025-04-02 10:32:18.797349 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https A
+2025-04-02 10:32:18.799348 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https FA
+2025-04-02 10:32:18.828346 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:18.844302 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:18.926889 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:18.934623 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.944615 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:18.960956 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 PA / Raw
+2025-04-02 10:32:18.961950 | Ether / IP / TCP 52.199.50.3:https > 10.100.49.37:65362 FA / Padding
+2025-04-02 10:32:18.962945 | Ether / IP / TCP 10.100.49.37:65362 > 52.199.50.3:https RA
+2025-04-02 10:32:19.026312 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.058739 | Ether / IP / UDP 10.100.50.33:57621 > 10.100.55.255:57621 / Raw
+2025-04-02 10:32:19.083491 | Ether / IP / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:19.085528 | Ether / IPv6 / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:19.089529 | Ether / IP / UDP 10.100.50.33:60956 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:19.092536 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.093532 | Ether / IP / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:19.094522 | Ether / IPv6 / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:19.164610 | Ether / ARP who has 10.100.53.89 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.184651 | Ether / ARP who has 10.100.51.28 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.194605 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.305633 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.340225 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.354327 | Ether / IP / UDP 10.100.50.33:53513 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:19.367366 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:19.369359 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:19.417343 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:19.420501 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:19.464809 | Ether / IP / TCP 10.100.49.37:65346 > 3.233.158.24:https A / Raw
+2025-04-02 10:32:19.492176 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:19.494187 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.511408 | Ether / IP / TCP 10.100.49.37:65345 > 3.233.158.24:https A / Raw
+2025-04-02 10:32:19.574449 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.585435 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.701700 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.713934 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:19.722505 | Ether / IP / UDP 10.100.48.2:36126 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:19.724354 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:19.734364 | Ether / IP / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:19.735358 | Ether / IPv6 / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:19.761518 | Ether / IP / TCP 3.233.158.24:https > 10.100.49.37:65346 A
+2025-04-02 10:32:19.808894 | Ether / IP / TCP 3.233.158.24:https > 10.100.49.37:65345 A
+2025-04-02 10:32:19.906175 | Ether / IP / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:19.908201 | Ether / IPv6 / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+2025-04-02 10:32:19.921211 | Ether / ARP who has 10.100.50.180 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.934216 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.944216 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:19.991376 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A
+2025-04-02 10:32:20.024069 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.033073 | Ether / IP / UDP 10.100.52.28:34161 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:20.084065 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.184624 | Ether / ARP who has 10.100.51.28 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.204051 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.304512 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.334976 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.370129 | Ether / IP / UDP 10.100.50.33:53513 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:20.400829 | Ether / IP / UDP / mDNS Ans b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:20.402840 | Ether / IPv6 / UDP / mDNS Ans b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:20.403837 | Ether / IP / UDP / mDNS Qry b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:20.404838 | Ether / IPv6 / UDP / mDNS Qry b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:20.465066 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:20.466065 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.467069 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.468069 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.469065 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.469065 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.470065 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.471065 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.472078 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.473079 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.474073 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.475069 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.476061 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:20.477056 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.479059 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:20.480055 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:20.504223 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.584096 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.650829 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.659723 | Ether / IP / UDP / mDNS Qry b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:20.660743 | Ether / IPv6 / UDP / mDNS Qry b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:20.704936 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.743379 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:20.744378 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:20.746383 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:20.748375 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:20.749372 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:20.751379 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:20.752373 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:20.754376 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:20.808079 | Ether / ARP who has 10.100.55.254 says 10.100.48.95 / Padding
+2025-04-02 10:32:20.846057 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:20.897264 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:20.910863 | Ether / IP / UDP / mDNS Qry b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:20.912891 | Ether / IPv6 / UDP / mDNS Qry b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:20.914887 | Ether / ARP who has 10.100.50.180 says 10.100.55.254 / Padding
+2025-04-02 10:32:20.954478 | Ether / ARP who has 10.100.51.167 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.006404 | Ether / IP / UDP 10.100.48.13:34822 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:21.011259 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.024185 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.037419 | Ether / IP / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:21.039411 | Ether / IPv6 / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:21.060078 | Ether / IP / TCP 49.44.88.225:https > 10.100.49.37:65279 PA / Raw
+2025-04-02 10:32:21.061073 | Ether / IP / TCP 49.44.88.225:https > 10.100.49.37:65279 FA / Padding
+2025-04-02 10:32:21.062081 | Ether / IP / TCP 10.100.49.37:65279 > 49.44.88.225:https A
+2025-04-02 10:32:21.063066 | Ether / IP / TCP 10.100.49.37:65279 > 49.44.88.225:https FA
+2025-04-02 10:32:21.084810 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.123409 | Ether / IP / TCP 49.44.88.225:https > 10.100.49.37:65279 A / Padding
+2025-04-02 10:32:21.175218 | Ether / IP / UDP / mDNS Ans b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:21.177212 | Ether / IPv6 / UDP / mDNS Ans b'DESKTOP-880GL1B._dosvc._tcp.local.'
+2025-04-02 10:32:21.179216 | Ether / IP / UDP / mDNS Ans
+2025-04-02 10:32:21.180216 | Ether / IPv6 / UDP / mDNS Ans
+2025-04-02 10:32:21.286350 | Ether / IP / UDP 10.100.48.3:34516 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:21.288361 | Ether / IP / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:21.289360 | Ether / IPv6 / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:21.297993 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.304071 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.334294 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.377388 | Ether / IP / UDP 10.100.50.33:53513 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:21.397550 | Ether / IP / UDP / mDNS Qry b'_companion-link._tcp.local.'
+2025-04-02 10:32:21.398551 | Ether / IPv6 / UDP / mDNS Qry b'_companion-link._tcp.local.'
+2025-04-02 10:32:21.399557 | Ether / IP / UDP / mDNS Qry b'_companion-link._tcp.local.'
+2025-04-02 10:32:21.404596 | Ether / IP / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:21.405598 | Ether / IPv6 / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:21.468361 | Ether / IP / UDP 10.100.48.6:42386 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:21.506884 | Ether / IP / UDP 10.100.48.9:56097 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:21.537353 | Ether / IP / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:21.538337 | Ether / IPv6 / UDP / mDNS Qry b'Android-56.local.'
+2025-04-02 10:32:21.543350 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.584044 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.644174 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.681193 | Ether / IP / UDP 10.100.48.12:55564 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:21.713082 | Ether / IP / UDP / mDNS Qry b'_companion-link._tcp.local.'
+2025-04-02 10:32:21.714085 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.722104 | Ether / IPv6 / UDP / mDNS Qry b'_companion-link._tcp.local.'
+2025-04-02 10:32:21.914864 | Ether / ARP who has 10.100.50.180 says 10.100.55.254 / Padding
+2025-04-02 10:32:21.975871 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:21.977875 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:21.993083 | Ether / IP / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:21.997078 | Ether / IPv6 / UDP / mDNS Ans b'_mi-connect._udp.local.'
+2025-04-02 10:32:22.013917 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:22.151863 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:22.168302 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:22.186940 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:22.254278 | Ether / IP / UDP 10.100.48.11:50353 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:22.259272 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:22.294478 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:22.446534 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:22.549299 | Ether / ARP who has 10.100.55.254 says 10.100.48.90 / Padding
+2025-04-02 10:32:22.553295 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:22.554301 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:22.584130 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:22.586124 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:22.587127 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:22.588126 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:22.589123 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:22.590126 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:22.591126 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:22.592126 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:22.593128 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:22.595126 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:22.644150 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:22.655665 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:22.714767 | Ether / IP / UDP 10.100.48.10:38190 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:22.763109 | Ether / IP / UDP 10.100.48.8:60251 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:22.862553 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:22.863544 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:22.864548 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:22.865545 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:22.866550 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:22.913106 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:22.954848 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:23.052954 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:23.055939 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:23.060939 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:23.062941 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:23.064951 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:23.127942 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:23.162950 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:23.167991 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:23.271314 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:23.272311 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:23.294520 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:23.330224 | Ether / IP / UDP 10.100.48.20:53743 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:23.384892 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:23.414432 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:23.416066 | Ether / IP / UDP 10.100.56.31:53899 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:23.439521 | Ether / IP / TCP 104.18.36.252:https > 10.100.49.37:65154 PA / Raw
+2025-04-02 10:32:23.440508 | Ether / IP / TCP 10.100.49.37:65154 > 104.18.36.252:https PA / Raw
+2025-04-02 10:32:23.500331 | Ether / IP / TCP 104.18.36.252:https > 10.100.49.37:65154 A / Padding
+2025-04-02 10:32:23.674958 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:23.675961 | Ether / IP / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:23.676971 | Ether / IPv6 / UDP / mDNS Qry b'_233637DE._sub._googlecast._tcp.local.'
+2025-04-02 10:32:23.677974 | Ether / IP / UDP 10.100.49.158:50043 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:23.777956 | Ether / IP / UDP 10.100.48.7:53247 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:23.779962 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:23.780961 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.085118 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.187315 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.189345 | Ether / IP / UDP 10.100.52.132:54905 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:24.289511 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.494860 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.495869 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.496863 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.496863 | Ether / IP / UDP / mDNS Qry b'_spotify-social-listening._tcp.local.'
+2025-04-02 10:32:24.584256 | Ether / ARP who has 10.100.49.37 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.586282 | Ether / ARP is at 14:13:33:37:b7:17 says 10.100.49.37
+2025-04-02 10:32:24.597280 | Ether / IPv6 / UDP / mDNS Qry b'_spotify-social-listening._tcp.local.'
+2025-04-02 10:32:24.607575 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:24.608507 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.609520 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.610516 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.611527 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.612519 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.613528 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.614533 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.615528 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.616527 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.617522 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.618528 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.619531 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:24.620531 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.621530 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:24.622532 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:24.699323 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.801511 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.886091 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:24.887336 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:24.889331 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:24.890336 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:24.890336 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:24.891336 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:24.892327 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:24.904293 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:24.905291 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:24.950524 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:25.006834 | Ether / ARP who has 10.100.49.73 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.108935 | Ether / ARP who has 10.100.52.207 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.110818 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:25.112824 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:25.113817 | Ether / IP / UDP / mDNS Ans 10.100.49.154
+2025-04-02 10:32:25.115825 | Ether / IPv6 / UDP / mDNS Ans 10.100.49.154
+2025-04-02 10:32:25.211153 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.212826 | Ether / IP / UDP 10.100.52.132:54905 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:25.256624 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:25.257628 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:25.313625 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.314628 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.315627 | Ether / ARP who has 10.100.51.36 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.518493 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.606505 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:25.620912 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.721364 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:25.723368 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.826490 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.827812 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.828798 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:25.884265 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A
+2025-04-02 10:32:25.928158 | Ether / ARP who has 10.100.55.254 says 10.100.48.85 / Padding
+2025-04-02 10:32:26.030026 | Ether / ARP who has 10.100.55.254 says 10.100.48.92 / Padding
+2025-04-02 10:32:26.132658 | Ether / ARP who has 10.100.49.73 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.235801 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.236784 | Ether / IP / UDP 10.100.48.22:54404 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:26.237782 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.238792 | Ether / IP / UDP 10.100.52.132:54905 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:26.337470 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.339480 | Ether / ARP who has 10.100.51.223 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.339480 | Ether / ARP who has 10.100.51.36 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.341481 | Ether / IP / UDP / mDNS Qry b'Android-52.local.'
+2025-04-02 10:32:26.342914 | Ether / IPv6 / UDP / mDNS Qry b'Android-52.local.'
+2025-04-02 10:32:26.440178 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.441199 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:26.542435 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.543420 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:26.545419 | Ether / IP / UDP / mDNS Qry b'Android-52.local.'
+2025-04-02 10:32:26.546427 | Ether / IPv6 / UDP / mDNS Qry b'Android-52.local.'
+2025-04-02 10:32:26.645005 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.669970 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:26.670733 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.671757 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.672742 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.673753 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.674754 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.675757 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.676751 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.677759 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.678757 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.679754 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.679754 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.680760 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:26.681759 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.683753 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.684755 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.685755 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.686756 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.686756 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.688745 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.689758 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.690747 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.691753 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.692755 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:26.692755 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:26.747344 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.849664 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.851682 | Ether / IP / UDP / mDNS Qry b'Android-52.local.'
+2025-04-02 10:32:26.948762 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.949766 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.950764 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.951083 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.952107 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.953102 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.954105 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.955106 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.956104 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.956104 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:26.957107 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:26.959106 | Ether / IPv6 / UDP / mDNS Qry b'Android-52.local.'
+2025-04-02 10:32:27.054412 | Ether / ARP who has 10.100.49.73 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.056428 | Ether / IP / UDP / mDNS Ans b'Android-52.local.'
+2025-04-02 10:32:27.112322 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:27.158417 | Ether / IPv6 / UDP / mDNS Ans b'Android-52.local.'
+2025-04-02 10:32:27.199696 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:27.243897 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:27.259025 | Ether / ARP who has 10.100.49.60 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.261016 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.262025 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.263016 | Ether / IP / UDP 10.100.52.132:54905 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:27.265013 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:27.266014 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:27.267011 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:27.268010 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A / Raw
+2025-04-02 10:32:27.269011 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:27.269483 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:27.270133 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:27.339775 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:27.341803 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:27.342539 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:27.343549 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:27.344559 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:27.361945 | Ether / ARP who has 10.100.51.223 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.384741 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:27.463824 | Ether / ARP who has 10.100.51.36 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.567081 | Ether / IP / UDP 10.100.48.21:45474 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:27.568075 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.569073 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.617087 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:27.619085 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:27.620082 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 PA / Raw
+2025-04-02 10:32:27.621079 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https A
+2025-04-02 10:32:27.622074 | Ether / IP / TCP 10.100.49.37:64556 > 104.18.32.47:https PA / Raw
+2025-04-02 10:32:27.669087 | Ether / IP / UDP 10.100.48.15:46761 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:27.670073 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.671085 | Ether / ARP who has 10.100.51.28 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.672076 | Ether / IP / UDP 10.100.52.249:53834 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:27.727385 | Ether / IP / TCP 10.100.49.37:65062 > 172.64.151.4:https A / Raw
+2025-04-02 10:32:27.737320 | Ether / IP / TCP 104.18.32.47:https > 10.100.49.37:64556 A / Padding
+2025-04-02 10:32:27.770866 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.772885 | Ether / IP / UDP 10.100.48.16:57643 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:27.773866 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.873449 | Ether / ARP who has 10.100.55.254 says 10.100.48.87 / Padding
+2025-04-02 10:32:27.978441 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:27.980464 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:28.079112 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.081128 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:28.181506 | Ether / IP / UDP 10.100.48.18:51669 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:28.183497 | Ether / IP / UDP / mDNS Ans b'Android-52.local.'
+2025-04-02 10:32:28.283605 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.285612 | Ether / IPv6 / UDP / mDNS Ans b'Android-52.local.'
+2025-04-02 10:32:28.373750 | Ether / IP / UDP / DNS Qry b'www.msftconnecttest.com.'
+2025-04-02 10:32:28.385792 | Ether / ARP who has 10.100.51.223 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.386795 | Ether / ARP who has 10.100.55.254 says 10.100.48.96 / Padding
+2025-04-02 10:32:28.387786 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.407163 | Ether / IP / TCP 66.203.125.16:https > 10.100.49.37:64178 PA / Raw
+2025-04-02 10:32:28.408155 | Ether / IP / TCP 10.100.49.37:64178 > 66.203.125.16:https PA / Raw
+2025-04-02 10:32:28.432581 | Ether / IP / UDP / DNS Ans b'ncsi-geo.trafficmanager.net.'
+2025-04-02 10:32:28.433588 | Ether / IP / TCP 10.100.49.37:65363 > 104.97.76.217:http S
+2025-04-02 10:32:28.515013 | Ether / IP / TCP 104.97.76.217:http > 10.100.49.37:65363 SA
+2025-04-02 10:32:28.517042 | Ether / IP / TCP 10.100.49.37:65363 > 104.97.76.217:http A
+2025-04-02 10:32:28.518032 | Ether / IP / TCP 10.100.49.37:65363 > 104.97.76.217:http PA / Raw
+2025-04-02 10:32:28.590068 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.591072 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.592076 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.598069 | Ether / IP / TCP 104.97.76.217:http > 10.100.49.37:65363 A / Padding
+2025-04-02 10:32:28.599081 | Ether / IP / TCP 104.97.76.217:http > 10.100.49.37:65363 PA / Raw
+2025-04-02 10:32:28.601083 | Ether / IP / TCP 104.97.76.217:http > 10.100.49.37:65363 FA / Padding
+2025-04-02 10:32:28.602071 | Ether / IP / TCP 10.100.49.37:65363 > 104.97.76.217:http A
+2025-04-02 10:32:28.603070 | Ether / IP / TCP 10.100.49.37:65363 > 104.97.76.217:http FA
+2025-04-02 10:32:28.604070 | Ether / IP / TCP 66.203.125.16:https > 10.100.49.37:64178 A / Padding
+2025-04-02 10:32:28.679272 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:28.681278 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 PA / Raw
+2025-04-02 10:32:28.682277 | Ether / IP / TCP 104.97.76.217:http > 10.100.49.37:65363 A / Padding
+2025-04-02 10:32:28.683265 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 A
+2025-04-02 10:32:28.683561 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:28.684711 | Ether / IP / TCP 10.100.49.37:65361 > 163.70.144.61:5222 PA / Raw
+2025-04-02 10:32:28.692713 | Ether / ARP who has 10.100.52.37 says 10.100.50.120 / Padding
+2025-04-02 10:32:28.693711 | Ether / ARP who has 10.100.51.28 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.694709 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.695709 | Ether / IP / UDP 10.100.52.249:53834 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:28.725958 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:28.727953 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.728944 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.728944 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.729956 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.731956 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.732187 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.733207 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.734195 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.735200 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.736203 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.737209 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.738209 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:28.739203 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.740200 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.741206 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.741206 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.742206 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.743196 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.744197 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.745195 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.746196 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.747193 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.748195 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A / Raw
+2025-04-02 10:32:28.749197 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https PA / Raw
+2025-04-02 10:32:28.755148 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:28.755469 | Ether / IP / TCP 163.70.144.61:5222 > 10.100.49.37:65361 A / Padding
+2025-04-02 10:32:28.794704 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.897548 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:28.999780 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.004797 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.005803 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.006792 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.007794 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.008801 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.009799 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.010799 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.010799 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.011800 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.012798 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 A / Padding
+2025-04-02 10:32:29.102427 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.104425 | Ether / IP / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:29.106270 | Ether / IPv6 / UDP / mDNS Ans b'Android-56.local.'
+2025-04-02 10:32:29.162812 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:29.204639 | Ether / ARP who has 10.100.52.11 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.205666 | Ether / IP / UDP 10.100.51.240:49335 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:29.209665 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:29.308375 | Ether / ARP who has 10.100.50.85 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.448267 | Ether / ARP who has 10.100.55.254 says 10.100.48.84 / Padding
+2025-04-02 10:32:29.474232 | Ether / ARP who has 10.100.50.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.484235 | Ether / ARP who has 10.100.50.164 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.515449 | Ether / IP / TCP 20.189.173.12:https > 10.100.49.37:65285 PA / Raw
+2025-04-02 10:32:29.524026 | Ether / ARP who has 10.100.49.131 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.567127 | Ether / IP / TCP 10.100.49.37:65285 > 20.189.173.12:https A
+2025-04-02 10:32:29.614128 | Ether / ARP who has 10.100.49.170 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.615122 | Ether / ARP who has 10.100.51.28 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.639127 | Ether / IP / UDP 10.100.52.249:53834 > 239.255.255.250:ssdp / Raw
+2025-04-02 10:32:29.653662 | Ether / ARP who has 10.100.49.232 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.819260 | Ether / ARP who has 10.100.51.156 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.922510 | Ether / IP / UDP 10.100.48.2:36126 > 255.255.255.255:29810 / Raw
+2025-04-02 10:32:29.923511 | Ether / ARP who has 10.100.51.144 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.924511 | Ether / ARP who has 10.100.55.254 says 10.100.48.94 / Padding
+2025-04-02 10:32:29.924511 | Ether / ARP who has 10.100.50.122 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.925511 | Ether / ARP who has 10.100.51.135 says 10.100.55.254 / Padding
+2025-04-02 10:32:29.926511 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:30.023525 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:30.126395 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:30.127412 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:30.128404 | Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:30.129416 | Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2025-04-02 10:32:30.131403 | Ether / IP / UDP / mDNS Ans b'Android-52.local.'
+2025-04-02 10:32:30.133418 | Ether / IPv6 / UDP / mDNS Ans b'Android-52.local.'
+2025-04-02 10:32:30.149085 | Ether / IP / TCP 10.100.49.37:65266 > 35.211.132.58:https A / Raw
